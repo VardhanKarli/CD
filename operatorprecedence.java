@@ -101,3 +101,9 @@ public class operatorprecedence {
         }
     }
 }
+/*
++ > < > >
+i > > < >
+* > > = >
+$ < < < A
+    */
